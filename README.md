@@ -4,7 +4,7 @@ Time series momentum strategy based on Moskowitz, Ooi, and Pedersen (2012)
 This project implements a time series momentum strategy based on Moskowitz, Ooi, and Pedersen (2012). The strategy uses 12-month 
 historical returns as a signal to take long or short positions on futures contracts. Initially tested on crude oil futures, which 
 produced negative returns, the strategy was expanded to five futures contracts across commodities, equity indexes, bonds, and 
-currencies. Results confirmed the paper's findings — equity index and bond futures showed stronger momentum with positive cumulative 
+currencies. Results confirmed the paper's findings, equity index and bond futures showed stronger momentum with positive cumulative 
 returns and higher Sharpe Ratios.
 
 # Academic Foundation
